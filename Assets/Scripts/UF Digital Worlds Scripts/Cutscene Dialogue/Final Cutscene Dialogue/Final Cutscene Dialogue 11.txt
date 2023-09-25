@@ -1,0 +1,7 @@
+[NAME=Poorly-Worded Wish Fairy][PITCH=1]You've truly learned the value in the life you had!
+As such, you deserve a reward.
+[NAME=Player][PITCH=2]You're sending me home?
+[NAME=Poorly-Worded Wish Fairy][PITCH=1]No!
+You're going to the credits!
+[NAME=Player][PITCH=2]Really? That's pretty lazy. Can't we have a quick scene where I finally get home?
+[NAME=Poorly-Worded Wish Fairy][PITCH=1]I can't hear you over the sound of me casting the spell!

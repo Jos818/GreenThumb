@@ -1,0 +1,10 @@
+[NAME=Player][PITCH=2]
+"Chapter 4: Cacti and Other Prickly Things"
+"No gardener escapes the Magical Forest before running into a number of Cacti."
+"Unlike a normal cactus in the real world, the Magical Forest Cactus is deadly to the touch."
+"To make matters worse, some of them shoot their spines in one of four cardinal directions."
+"Although it is generally advised to avoid the Cactus, experts have theorized that their deadly properties could be harnessed by a cautious gardener."
+"For liability reasons, I am required to advise that you, the reader, DO NOT DO THIS.
+"But maybe try it..."
+...
+Weird.

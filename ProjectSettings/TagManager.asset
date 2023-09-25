@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Watering Can
+  - SceneManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Pots
+  - Projectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background/Ground Level Tileset
+    uniqueID: 247081743
+    locked: 0
+  - name: Ground Level Decorations
+    uniqueID: 1929755635
+    locked: 0
+  - name: Wall Tileset
+    uniqueID: 2070687853
+    locked: 0
+  - name: Upper Level Border Tileset (Below Upper Level for Convenience)
+    uniqueID: 4032545967
+    locked: 0
+  - name: Upper Level Tileset
+    uniqueID: 2178239443
+    locked: 0
+  - name: Upper Level Decorations
+    uniqueID: 1699222777
+    locked: 0
+  - name: Interactables
+    uniqueID: 680557303
+    locked: 0
+  - name: Player
+    uniqueID: 929472839
+    locked: 0
+  - name: UI
+    uniqueID: 556008325
+    locked: 0

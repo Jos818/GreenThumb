@@ -1,0 +1,8 @@
+[NAME=Player][PITCH=2]AHHH!!!
+[NAME=???][PITCH=1]Fear not mortal, it is I, the Poorly-Worded Wish Fairy!
+[NAME=Poorly-Worded Wish Fairy]I heard your plea, and have come to grant your wish!
+[NAME=Player][PITCH=2]Did you say your name was the "Poorly-Worded Wish Fairy"?
+[NAME=Poorly-Worded Wish Fairy][PITCH=1]It's more of a title, but Maureen doesn't have quite the same effect.
+But enough about me. I'm here to help you!
+[NAME=Player][PITCH=2]Um, no offense, but I don't think I want help from the "Poorly-Worded Wish Fairy".
+Besides, I'm actually very happy with my life.

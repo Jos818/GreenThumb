@@ -1,0 +1,4 @@
+[NAME=Poorly-Worded Wish Fairy][PITCH=1]You said: "I wish to go on an exciting adventure". And I'm going to grant your wish!
+[NAME=Player][PITCH=2]...
+That's not what I said.
+I said that I would NEVER wish to go on an exciting adventure.

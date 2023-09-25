@@ -1,0 +1,13 @@
+[NAME=Player][PITCH=2]
+What's this giant book?
+...
+"Magical Forest Gardening: Survive and Thrive"
+I get the impression I should read this.
+...
+"The Magical Forest is one of the most dangerous places you can ever find yourself."
+"To survive, you'll need all the brainpower, agility, and gardening prowess you can muster."
+"As a lover-of-plants, your most potent tool, after your mind, is your watering can."
+"Pressing SPACE to water suspicious piles of dirt is the best thing you can do in a pinch."
+...
+What am I, a beginner? I know how to use a watering can.
+Still, I should probably keep an eye out for books like these, there might be helpful information in them.

@@ -1,0 +1,8 @@
+[NAME=Player][PITCH=2]
+"Chapter 9: Pots for Gardeners on the Go"
+"During their time in the Magical Forest, many gardeners often lament that they would have survived if only a certain plant was a few feet to the left, to shield their fragile bodies from certain death."
+"This problem is solved with the Potted Plant!"
+"With a little elbow grease and determination, any gardener can push the potted plant to the place of their choosing, and then water it as normal."
+"What the gardener might not realize, is that should their potted plant wilt away for whatever reason, it returns to its potted form, allowing the gardener to reposition it once again."
+...
+Neat!

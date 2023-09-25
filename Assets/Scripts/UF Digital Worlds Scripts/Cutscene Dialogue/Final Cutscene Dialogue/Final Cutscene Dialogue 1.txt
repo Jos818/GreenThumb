@@ -1,0 +1,11 @@
+[NAME=Poorly-Worded Wish Fairy][PITCH=1]Greetings weary traveler! It is I, the Poorly-Worded Wish Fairy, here to solve all of your troubles!
+[NAME=Player][PITCH=2]huff, huff
+we've, huff
+met, huff.
+[NAME=Poorly-Worded Wish Fairy][PITCH=1]We have? I don't seem to recall.
+Tell me: What poorly-worded wish did I grant you?
+[NAME=Player][PITCH=2]...
+You sent me to this magic forest after I DIDN'T wish for adventure.
+[NAME=Poorly-Worded Wish Fairy][PITCH=1]Ah yes! I remember now!
+The humble gardener who wished for a grand adventure.
+How has your adventure treated you? Have you learned the value of a peaceful existence yet?

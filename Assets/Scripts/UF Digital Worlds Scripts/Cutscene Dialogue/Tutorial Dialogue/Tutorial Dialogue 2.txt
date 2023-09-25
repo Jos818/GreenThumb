@@ -1,0 +1,8 @@
+[NAME=Player][PITCH=2]
+"Chapter 2: The Mighty Wallflower"
+"Of all the plants that grow in the Magical Forest, few offer the utility of the Wallflower."
+"Its sturdy frame can shield you from most all projectiles, save for fire."
+"However, a lesser-known use of the Wallflower could prove just as vital."
+"A wallflower positioned between a gap will often create a path for travelers to walk on, leading them to safety and away from the forest's many dangers."
+...
+Good to know!

@@ -1,0 +1,4 @@
+[NAME=Player][PITCH=2]Gah! A Fire!
+I should try to put it ou...
+[NAME=???][PITCH=3]HOLD IT!
+

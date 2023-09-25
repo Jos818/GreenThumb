@@ -1,0 +1,9 @@
+[NAME=Player][PITCH=2]
+"Chapter 7: Getting Out of Sticky Situations"
+"When exploring the Magical Forest, it is very likely that you'll find yourself stuck, with no path but towards certain death."
+"However, savy gardeners need have no fear!"
+"A simple press of the R key will warp the space-time continuum, and place you right back to where you started, allowing you to correct your mistakes, and press on!"
+"The fact that this phenomenon is eerily similar to the forest's response to killing you is a solemn reminder of the sick hellscape we find ourselves trapped in."
+"Please send help."
+...
+I think I'm going to try and get it right the first time...

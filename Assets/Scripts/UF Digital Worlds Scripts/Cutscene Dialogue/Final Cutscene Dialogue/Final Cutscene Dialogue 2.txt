@@ -1,0 +1,4 @@
+[NAME=Player][PITCH=2]You can't be serious.
+[NAME=Poorly-Worded Wish Fairy][PITCH=1]What?
+[NAME=Player][PITCH=2]I never wished for an adventure!
+You've been using me to get some weird "Fairy Godmother/Trickster Genie" street-cred, but you don't even play by your own rules!

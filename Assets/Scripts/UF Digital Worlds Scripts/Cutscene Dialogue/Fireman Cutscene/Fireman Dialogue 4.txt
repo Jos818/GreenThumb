@@ -1,0 +1,17 @@
+[NAME=Fireman][PITCH=3]Perfect. No need to thank me, it's all in a day's work.
+[NAME=Player][PITCH=2]What? No!
+Are you crazy?! Why did you do that!?
+I thought you were with the Fire Department.
+[NAME=Fireman][PITCH=3]I am.
+[NAME=Player][PITCH=2]But you didn't put out the fire, you just started another one!
+[NAME=Fireman][PITCH=3]Well duh! I'm part of the Fire Department.
+What, you thought the Fire Department put OUT fires?
+Hah! That's rich!
+[NAME=Player][PITCH=2]...
+So you're crazy. Good to know.
+Anyways, I'm just going to put out theses fires real quick so I can continue on my way.
+[NAME=Fireman][PITCH=3]Put out the fires? You can't do that!
+These fires are property of the Fire Department, and they will continue to burn until I say otherwise.
+[NAME=Player][PITCH=2]But I...
+[NAME=Fireman][PITCH=3]So we've got a wise guy, is that it?
+Well, if you want to vandalize government property and disrepspect the tireless work of your local first-responders, I'll just have to teach you a lesson.
